@@ -8,3 +8,5 @@ mania mariopaint
 - Shoddy Chess minor changes: "Lousy Chess" correctly capitalised; Period changed into comma
 
 - Test.exe
+
+- File.exe
