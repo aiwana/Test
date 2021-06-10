@@ -1,2 +1,8 @@
-Test
-fasff
+https://clearvision.gitlab.io/images/sapphire.jpg - BG
+
+mania mariopaint
+
+- Binary Grid: The grids in page 2 are now squared instead of being tiny rectangles.
+- Updated Needy Hotate's icon
+- Wire Association's icon
+- Shoddy Chess minor changes: "Lousy Chess" correctly capitalised; Period changed into comma.
